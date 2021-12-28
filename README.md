@@ -1,3 +1,3 @@
-# Learning
+# Pipeline
 
- Some simple codes that helped me learn :D
+ Example of sklearn pipeline :)
